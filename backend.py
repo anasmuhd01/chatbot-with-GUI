@@ -2,7 +2,7 @@ import openai
 
 class ChatBot():
     def __init__(self):
-        openai.api_key = "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"
+        openai.api_key = "paste your open ai api here"
 
 
     def get_respoce(self, user_input):
